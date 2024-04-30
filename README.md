@@ -1,10 +1,12 @@
 # CS2_PIZZA_RUNNER_PART_A
 
-#### Link to Challenge
+![image](https://github.com/JP852/CS2_PIZZA_RUNNER_PART_A/assets/142391590/339794f0-9613-4296-b73c-6f7cc96e11b1)
+
+## Link to Challenge
 
 https://blog.devgenius.io/danny-mas-sql-case-study-2-pizza-runner-solutions-38c90e3bb6ad
 
-#### SQL Techniques Used
+## SQL Techniques Used
 
 - Table Joins
 - Aggregation
